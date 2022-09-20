@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Shireeshpolkam-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Shireeshpolkam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shireeshpolkam//)](https://www.linkedin.com/in/shireeshpolkam//)
-[![Website Badge](https://img.shields.io/badge/WebSite-Shireeshpolkam-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shireeshpolkam-green)](https://shireeshpolkam.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shireeshpolkam-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
