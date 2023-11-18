@@ -1,13 +1,14 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Shireeshpolkam-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Shireeshpolkam-red)](#)
 [![Linkedin Badge](https://img.shields.io/badge/-Shireeshpolkam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shireeshpolkam//)](https://www.linkedin.com/in/shireeshpolkam//)
 [![Website Badge](https://img.shields.io/badge/WebSite-Shireeshpolkam-green)](https://shireeshpolkam.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shireeshpolkam-yellow)](https://stackoverflow.com/users/17984739/shireesh-polkam)
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites.I have a wide range of skills that include front-end development (HTML5, CSS3, Bootstrap, JavaScript, Wordpress) & back-end development using open source technologies (NodeJS), Cloud (AWS), Database(SQL). #AWS Solution Architect.
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Shireeshpolkam/count.svg)
