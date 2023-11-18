@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Shireeshpolkam-red)](#)
 [![Linkedin Badge](https://img.shields.io/badge/-Shireeshpolkam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shireeshpolkam//)](https://www.linkedin.com/in/shireeshpolkam//)
 [![Website Badge](https://img.shields.io/badge/WebSite-Shireeshpolkam-green)](https://shireeshpolkam.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shireeshpolkam-yellow)](https://stackoverflow.com/users/17984739/shireesh-polkam)
